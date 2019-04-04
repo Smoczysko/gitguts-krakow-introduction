@@ -1,5 +1,10 @@
 # Moje pierwsze repozytorium
 
+# Autorzy
+
+infoShare Academy
+Cloud Corridor
+
 hdfgjkhfgdjkgfhjkgfd
 fgdhjkgfdhkgfdhgkfd
 
