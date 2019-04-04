@@ -1,1 +1,4 @@
 # Moje pierwsze repozytorium
+
+hdfgjkhfgdjkgfhjkgfd
+fgdhjkgfdhkgfdhgkfd
