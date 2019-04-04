@@ -1,4 +1,4 @@
-# Moje pierwsze repozytorium
+# To jest ostatnia zmiana
 
 # Autorzy
 
