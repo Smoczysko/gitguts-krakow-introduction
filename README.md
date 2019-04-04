@@ -7,3 +7,9 @@ fgdhjkgfdhkgfdhgkfd
 
 gfdklgfdjklgfd
 gfdhgfdjgkfdhgfdjkh
+
+## Licencja
+
+gfjkjgfdlkgdfjlkgfd
+
+MIT
