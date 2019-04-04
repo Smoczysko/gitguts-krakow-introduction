@@ -19,4 +19,4 @@ gfjkjgfdlkgdfjlkgfd
 
 MIT
 
-## Cos
+## Dzięki za uwagę!
